@@ -125,8 +125,8 @@ landingContent:
       - linkListType: reference
         links:
           - text: Azure CLI developer reference
-            url: /rest/api/postgresql/
-          - text: REST API developer reference
             url: /cli/azure/postgres
+          - text: REST API developer reference
+            url: /rest/api/postgresql/
           - text: Azure Resource Manager templates
             url: /azure/templates/microsoft.dbforpostgresql/allversions
